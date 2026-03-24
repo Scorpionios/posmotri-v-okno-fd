@@ -89,7 +89,7 @@ a {
 }
 
 .search-form > .search-form__fieldset:first-child > .search-form__label {
-  width: 225px;
+  margin-right: 8px;
 }
 
 .search-form__fieldset {
